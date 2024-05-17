@@ -1,17 +1,16 @@
 EXP.NO: 03
 
-DATE: 12.03.2024
+DATE: 12/03/2024
 
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
- AIM:  To simulate multiplier using Vivado 2023.2.
- 
-APPARATUS REQUIRED:
+AIM:  
+To simulate multiplier using Vivado 2023.2.
 
+APPARATUS REQUIRED:
  Vivado 2023.2
  
 PROCEDURE: 
-
 STEP:1 Start the Vivado, Select and Name the New project. 
 
 STEP:2 Select the device family, device, package and speed. 
@@ -26,10 +25,10 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 
 LOGIC DIAGRAM:
 
-
-![image](https://github.com/Padmeshwaraan/VLSI_EXPERIMENT-3/assets/160568747/e11ea2f1-4594-4b55-9ddb-c02e04a4f8fd)
+![image](https://github.com/Karthikeyan8296/VLSI-EXP-3/assets/165583967/26bd8d81-7c79-4b7e-993c-292748f39d24)
 
  
+
 VERILOG CODE:
 
 2 bit multiplier
@@ -72,16 +71,14 @@ endmodule
 
 OUTPUT WAVEFORM:
 
-
-![image](https://github.com/Padmeshwaraan/VLSI_EXPERIMENT-3/assets/160568747/4a8924f1-3f3c-4508-9f8c-fb212c6b61fc)
+![image](https://github.com/Karthikeyan8296/VLSI-EXP-3/assets/165583967/914b8615-4f2d-4ae2-bf76-33daa75bc500)
 
 
 LOGIC DIAGRAM:
 
 4 Bit Multiplier
 
-
- ![image](https://github.com/Padmeshwaraan/VLSI_EXPERIMENT-3/assets/160568747/7ec44192-0e4e-473e-b3aa-6a3606741512)
+![image](https://github.com/Karthikeyan8296/VLSI-EXP-3/assets/165583967/ac6e50e5-ef1e-4c19-8d77-718d00c184c1)
 
 
 VERILOG CODE:
@@ -198,10 +195,9 @@ OUTPUT WAVEFORM:
 
 4 bit multiplier
 
+![image](https://github.com/Karthikeyan8296/VLSI-EXP-3/assets/165583967/dbfcd6dd-b14d-415a-80fe-cd303527be24)
 
-![image](https://github.com/Padmeshwaraan/VLSI_EXPERIMENT-3/assets/160568747/7205efe2-ad6e-429d-bf76-a32cf8819de8)
 
- 
 RESULT:
 
 Thus, multiplier using Vivado are Implemented and simulated successfully.
